@@ -1,0 +1,8 @@
+*
+!/public
+!/public/*
+!/src
+!/src/*
+!package.json
+!README.md
+!.gitignore
